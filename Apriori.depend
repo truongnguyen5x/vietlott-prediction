@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521857724 source:c:\users\truong\documents\apriori\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1522464365 source:d:\project\cpp\vietlott\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
